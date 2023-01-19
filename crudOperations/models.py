@@ -15,3 +15,7 @@ class Games(models.Model):
     Game_Content=models.TextField(blank=True)
     Game_Type = models.CharField(max_length=50,choices=CHOICES,default='Battle royale')
     Game_Image = models.ImageField(blank=True)
+    
+    
+secret - cUtYmoAFFXzDFrt7MP6q2SQVeyr1I5GS6uP0brec
+access - ASIAQWESQRFOAQXNS7Q7
