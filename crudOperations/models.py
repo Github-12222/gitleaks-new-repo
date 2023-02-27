@@ -17,5 +17,4 @@ class Games(models.Model):
     Game_Image = models.ImageField(blank=True)
     
     
-secret - cUtYmoAFFXzDFrt7MP6q2SQVeyr1I5GS6uP0brec
-access - ASIAQWESQRFOAQXNS7Q7
+ 
