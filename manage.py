@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+AWS_SECRET_KEY="5sVuvbO367NZYBXL7lDEs1HX3Qkz33ks0qpai11/"
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DRFCRUD.settings')
